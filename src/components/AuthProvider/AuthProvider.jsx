@@ -4,7 +4,6 @@ import app from "../../firebase/firebase.config";
 import PropTypes from 'prop-types';
 import axios from "axios";
 
-
 export const AuthContext = createContext();
 const provider = new GoogleAuthProvider();
 const auth = getAuth(app);
