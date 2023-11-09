@@ -18,7 +18,6 @@ const JobByCategory = () => {
             })
     }, [])
 
-
     const handleTab = (category) => {
         const filterJob = jobs.filter(job => job.category == category);
         setDisplayJob(filterJob);
