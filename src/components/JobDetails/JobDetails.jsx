@@ -33,7 +33,6 @@ const JobDetails = () => {
     const todayDate = new Date();
     const deadlineDate = new Date(deadline);
 
-
     const handleSubmit = e => {
         e.preventDefault();
         const form = e.target;
