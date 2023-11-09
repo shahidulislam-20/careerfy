@@ -23,7 +23,6 @@ const JobByCategory = () => {
         setDisplayJob(filterJob);
     }
 
-
     //four category tab here
     const tabElement = [];
     for (let i = 1; i < 5; i++) {
