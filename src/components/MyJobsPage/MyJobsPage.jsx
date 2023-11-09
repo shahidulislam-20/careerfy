@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 import PageTitle from "../Shared/Helmet/PageTitle";
 
-
 const MyJobsPage = () => {
 
     const { user } = useContext(AuthContext);
