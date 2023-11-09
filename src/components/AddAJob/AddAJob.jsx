@@ -9,7 +9,6 @@ import { format } from 'date-fns';
 import Swal from 'sweetalert2';
 import PageTitle from '../Shared/Helmet/PageTitle';
 
-
 const AddAJob = () => {
 
     const {user} = useContext(AuthContext);
