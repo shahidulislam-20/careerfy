@@ -37,7 +37,7 @@ const AuthProvider = ({ children }) => {
 
             // jwt configure
             if(currentUser){
-                axios.post('http://localhost:5000/jwt', loggedUser, {withCredentials: true})
+                axios.post('https://careerfy-server-nine.vercel.app/jwt', loggedUser, {withCredentials: true})
                 .then(res => {
                     console.log(res.data)
                 })
@@ -45,7 +45,7 @@ const AuthProvider = ({ children }) => {
                     console.log(error)
                 })
             }else{
-                axios.post('http://localhost:5000/logout', loggedUser, {withCredentials: true})
+                axios.post('https://careerfy-server-nine.vercel.app/logout', loggedUser, {withCredentials: true})
                 .then(res => {
                     console.log(res.data)
                 })

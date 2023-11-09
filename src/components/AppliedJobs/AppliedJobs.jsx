@@ -12,7 +12,7 @@ const AppliedJobs = () => {
     const [filterJob, setFilterJob] = useState('');
 
     useEffect(() => {
-        fetch(`http://localhost:5000/applied-jobs?email=${user?.email}`, {credentials: 'include'})
+        fetch(`https://careerfy-server-nine.vercel.app/applied-jobs?email=${user?.email}`, {credentials: 'include'})
             .then(res => res.json())
             .then(data => setAppliedJobs(data))
     }, [user?.email])

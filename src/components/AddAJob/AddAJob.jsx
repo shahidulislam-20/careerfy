@@ -32,7 +32,7 @@ const AddAJob = () => {
         const jobPost = {title, name, email:user?.email, category, salary, banner, applicant, postingDate, deadline, description};
         console.log(jobPost);
 
-        fetch('http://localhost:5000/jobs', {
+        fetch('https://careerfy-server-nine.vercel.app/jobs', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

@@ -34,7 +34,7 @@ const UpdateJob = () => {
         const jobPost = {title, name, category, salary, banner, applicant, postingDate, deadline, description};
         console.log(jobPost);
 
-        fetch(`http://localhost:5000/jobs/${updateJob._id}`, {
+        fetch(`https://careerfy-server-nine.vercel.app/jobs/${updateJob._id}`, {
             method: 'PUT',
             headers: {
                 'content-type': 'application/json'

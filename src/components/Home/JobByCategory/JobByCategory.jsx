@@ -12,7 +12,7 @@ const JobByCategory = () => {
 
 
     useEffect(() => {
-        fetch('http://localhost:5000/jobs')
+        fetch('https://careerfy-server-nine.vercel.app/jobs')
             .then(res => res.json())
             .then(data => {
                 setJobs(data)

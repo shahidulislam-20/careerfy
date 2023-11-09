@@ -45,12 +45,12 @@ const router = createBrowserRouter([
       {
         path: '/all-job-page',
         element: <AllJobsPage></AllJobsPage>,
-        loader: () => fetch('http://localhost:5000/jobs')
+        loader: () => fetch('https://careerfy-server-nine.vercel.app/jobs')
       },
       {
         path: '/job-details/:id',
         element: <PrivateRoute><JobDetails></JobDetails></PrivateRoute>,
-        loader: ({params}) => fetch(`http://localhost:5000/job-details/${params.id}`)
+        loader: ({params}) => fetch(`https://careerfy-server-nine.vercel.app/job-details/${params.id}`)
       },
       {
         path: '/my-job-page',
@@ -59,12 +59,12 @@ const router = createBrowserRouter([
       {
         path: '/update-job/:id',
         element: <UpdateJob></UpdateJob>,
-        loader: ({params}) => fetch(`http://localhost:5000/update-job/${params.id}`)
+        loader: ({params}) => fetch(`https://careerfy-server-nine.vercel.app/update-job/${params.id}`)
       },
       {
         path: '/applied-jobs',
         element: <PrivateRoute><AppliedJobs></AppliedJobs></PrivateRoute>,
-        loader: () => fetch('http://localhost:5000/jobs')
+        loader: () => fetch('https://careerfy-server-nine.vercel.app/jobs', {credentials: 'include'})
       },
       {
         path: '/blog',
