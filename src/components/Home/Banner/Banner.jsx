@@ -14,7 +14,6 @@ const Banner = () => {
             .then(data => setAllData(data))
     }, [])
 
-
     return (
         <div>
             <div className='relative'>
