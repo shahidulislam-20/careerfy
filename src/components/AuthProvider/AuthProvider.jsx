@@ -92,7 +92,6 @@ const AuthProvider = ({ children }) => {
     );
 };
 
-
 AuthProvider.propTypes = {
     children: PropTypes.node.isRequired
 }
