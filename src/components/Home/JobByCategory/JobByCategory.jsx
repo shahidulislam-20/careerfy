@@ -24,6 +24,7 @@ const JobByCategory = () => {
     }
 
     //four category tab here
+    
     const tabElement = [];
     for (let i = 1; i < 5; i++) {
         tabElement.push(<TabPanel key={i}><ul>
