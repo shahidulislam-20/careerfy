@@ -1,0 +1,123 @@
+[
+    {
+      "title": "Software Engineer",
+      "name": "ABC Tech Solutions",
+      "category": "On Site",
+      "salary_range": "$80,000 - $100,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 50,
+      "posting_date": "2023-11-06",
+      "deadline": "2023-12-06",
+      "description": "We are looking for a talented software engineer to join our development team and work on" ,
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Marketing Manager",
+      "name": "XYZ Marketing Agency",
+      "category": "On Site",
+      "salary_range": "$60,000 - $80,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 30,
+      "posting_date": "2023-11-05",
+      "deadline": "2023-12-05",
+      "description": "Join our dynamic marketing team and lead our campaigns to success.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Registered Nurse",
+      "name": "City General Hospital",
+      "category": "Remote",
+      "salary_range": "$50,000 - $70,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 20,
+      "posting_date": "2023-11-04",
+      "deadline": "2023-12-04",
+      "description": "We are hiring compassionate nurses to provide high-quality patient care.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Graphic Designer",
+      "name": "Creative Design Studio",
+      "category": "Remote",
+      "salary_range": "$45,000 - $60,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 25,
+      "posting_date": "2023-11-03",
+      "deadline": "2023-12-03",
+      "description": "Join our creative team and bring your design skills to life.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Financial Analyst",
+      "name": "Global Finance Group",
+      "category": "Part Time",
+      "salary_range": "$70,000 - $90,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 35,
+      "posting_date": "2023-11-02",
+      "deadline": "2023-12-02",
+      "description": "We are seeking a detail-oriented financial analyst to analyze data and provide financial insights.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Customer Service Representative",
+      "name": "Customer Care Solutions",
+      "category": "Part Time",
+      "salary_range": "$35,000 - $45,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 40,
+      "posting_date": "2023-11-01",
+      "deadline": "2023-12-01",
+      "description": "Join our team and provide exceptional customer service to our clients.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Electrical Engineer",
+      "name": "PowerTech Industries",
+      "category": "Hybrid",
+      "salary_range": "$75,000 - $95,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 15,
+      "posting_date": "2023-10-31",
+      "deadline": "2023-11-30",
+      "description": "We are looking for skilled electrical engineers to work on innovative projects.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Sales Associate",
+      "name": "Retail World Inc.",
+      "category": "Hybrid",
+      "salary_range": "$30,000 - $40,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 60,
+      "posting_date": "2023-10-30",
+      "deadline": "2023-11-29",
+      "description": "Join our sales team and help customers find the best products.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Human Resources Manager",
+      "name": "HR Solutions Inc.",
+      "category": "Hybrid",
+      "salary_range": "$65,000 - $85,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 10,
+      "posting_date": "2023-10-29",
+      "deadline": "2023-11-28",
+      "description": "Lead our HR department and manage human resources activities.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    },
+    {
+      "title": "Project Manager",
+      "name": "Project Masters Ltd.",
+      "category": "Remote",
+      "salary_range": "$90,000 - $110,000",
+      "banner_url": "https://i.ibb.co/ZMm677g/banner.jpg",
+      "applicant_number": 25,
+      "posting_date": "2023-10-28",
+      "deadline": "2023-11-27",
+      "description": "We are seeking an experienced project manager to oversee and deliver successful projects.",
+      "long_des" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio nisi minima nemo maiores, asperiores quas quisquam sint possimus, quos error nihil quasi reiciendis rerum sit? Aperiam quod praesentium possimus qui perferendis dolor necessitatibus, similique beatae, temporibus hic fugiat nam rerum quas! Autem dolores earum voluptate quas, recusandae vel? Reprehenderit nam unde consequuntur ratione, fugiat aliquam rerum eum laborum deleniti necessitatibus commodi, dolorem aut porro nisi dolorum. Iste consequuntur tempora delectus incidunt quas, asperiores omnis ab nisi dolor saepe sequi. Odit neque quia consequuntur optio explicabo laudantium atque inventore, recusandae voluptatem repellat architecto omnis. Facere, rerum hic quia libero maxime ullam ipsam eaque magnam nemo incidunt voluptate provident fugit tempora iste praesentium porro obcaecati, aut dignissimos aliquam? Excepturi suscipit illo, cum omnis inventore autem doloribus soluta corporis sapiente reiciendis incidunt facere ad quos repudiandae a enim repellat aliquid nihil numquam sunt temporibus quibusdam, in accusantium ducimus. Omnis ipsa voluptatem quibusdam earum deleniti, incidunt impedit quod nisi ut neque. Ex consequatur magni eveniet alias quaerat laboriosam, voluptatem ducimus beatae deserunt fuga ea cum amet reprehenderit voluptates excepturi. Similique numquam veritatis praesentium corrupti dolore rem fugit, reiciendis dolor doloribus possimus sit facere eum perspiciatis, commodi odio sunt, animi pariatur nostrum nobis quod laborum."
+    }
+  ]
+  
