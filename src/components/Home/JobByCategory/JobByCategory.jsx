@@ -10,7 +10,6 @@ const JobByCategory = () => {
     const [displayJob, setDisplayJob] = useState([]);
     const [loadMore, setLoadMore] = useState(5);
 
-
     useEffect(() => {
         fetch('https://careerfy-server-nine.vercel.app/jobs')
             .then(res => res.json())
