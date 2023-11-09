@@ -9,7 +9,7 @@ const Banner = () => {
     const [search, setSearch] = useState('');
 
     useEffect(() => {
-        fetch('https://careerfy-server-nine.vercel.app/jobs')
+        fetch('https://careerfy-server-pink.vercel.app/jobs')
             .then(res => res.json())
             .then(data => setAllData(data))
     }, [])

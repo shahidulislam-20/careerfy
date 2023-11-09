@@ -57,7 +57,7 @@ const JobDetails = () => {
 
         if (deadlineDate.setHours(0, 0, 0, 0) >= todayDate.setHours(0, 0, 0, 0)) {
             if (user?.displayName !== name) {
-                fetch('https://careerfy-server-nine.vercel.app/applied-jobs', {
+                fetch('https://careerfy-server-pink.vercel.app/applied-jobs', {
                     method: 'POST',
                     headers: {
                         'content-type': 'application/json'
@@ -70,7 +70,7 @@ const JobDetails = () => {
                         if (data.insertedId) {
 
                             //Update Applicant Number
-                            fetch(`https://careerfy-server-nine.vercel.app/applicant-number/${_id}`, {
+                            fetch(`https://careerfy-server-pink.vercel.app/applicant-number/${_id}`, {
                                 method: 'PATCH',
                                 headers: {
                                     'content-type': 'application/json'

@@ -11,7 +11,7 @@ const MyJobsPage = () => {
     
     useEffect(() => {
 
-        fetch(`https://careerfy-server-nine.vercel.app/jobs/${user?.email}`, {credentials: 'include'})
+        fetch(`https://careerfy-server-pink.vercel.app/jobs/${user?.email}`)
             .then(res => res.json())
             .then(data => setMyJobs(data))
 
@@ -29,7 +29,7 @@ const MyJobsPage = () => {
             confirmButtonText: "Yes, delete it!"
         }).then((result) => {
             if (result.isConfirmed) {
-                fetch(`https://careerfy-server-nine.vercel.app/jobs/${id}`, {
+                fetch(`https://careerfy-server-pink.vercel.app/jobs/${id}`, {
                     method: 'DELETE'
                 })
                     .then(res => res.json())

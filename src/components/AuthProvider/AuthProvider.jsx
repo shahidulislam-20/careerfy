@@ -2,7 +2,7 @@ import { createContext, useEffect, useState } from "react";
 import { GoogleAuthProvider, createUserWithEmailAndPassword, getAuth, onAuthStateChanged, signInWithEmailAndPassword, signInWithPopup, signOut, updateProfile } from "firebase/auth";
 import app from "../../firebase/firebase.config";
 import PropTypes from 'prop-types';
-import axios from "axios";
+
 
 export const AuthContext = createContext();
 const provider = new GoogleAuthProvider();
@@ -28,27 +28,9 @@ const AuthProvider = ({ children }) => {
     //User signIn or not
     useEffect(() => {
         const unSubscribe = onAuthStateChanged(auth, currentUser => {
-            const userEmail = currentUser?.email || user?.email;
-            const loggedUser = {email: userEmail};
             console.log('logged in user', currentUser);
             setUser(currentUser);
-            setLoading(false);
-
-            // jwt configure
-            if(currentUser){
-                axios.post('https://careerfy-server-nine.vercel.app/jwt', loggedUser, {withCredentials: true})
-                .then(res => {
-                    console.log(res.data)
-                })
-                .catch(error => {
-                    console.log(error)
-                })
-            }else{
-                axios.post('https://careerfy-server-nine.vercel.app/logout', loggedUser, {withCredentials: true})
-                .then(res => {
-                    console.log(res.data)
-                })
-            }
+            setLoading(false);       
         })
         return () => {
             unSubscribe();

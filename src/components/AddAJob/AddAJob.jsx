@@ -31,7 +31,7 @@ const AddAJob = () => {
         const jobPost = {title, name, email:user?.email, category, salary, banner, applicant, postingDate, deadline, description};
         console.log(jobPost);
 
-        fetch('https://careerfy-server-nine.vercel.app/jobs', {
+        fetch('https://careerfy-server-pink.vercel.app/jobs', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

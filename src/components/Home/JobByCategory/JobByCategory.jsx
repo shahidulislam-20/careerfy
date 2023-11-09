@@ -11,7 +11,7 @@ const JobByCategory = () => {
     const [loadMore, setLoadMore] = useState(5);
 
     useEffect(() => {
-        fetch('https://careerfy-server-nine.vercel.app/jobs')
+        fetch('https://careerfy-server-pink.vercel.app/jobs')
             .then(res => res.json())
             .then(data => {
                 setJobs(data)
@@ -24,7 +24,7 @@ const JobByCategory = () => {
     }
 
     //four category tab here
-    
+
     const tabElement = [];
     for (let i = 1; i < 5; i++) {
         tabElement.push(<TabPanel key={i}><ul>
