@@ -4,7 +4,6 @@ import do3 from '../../../assets/do3.png'
 import do4 from '../../../assets/do4.png'
 import { motion } from "framer-motion";
 
-
 const DoSection = () => {
     return (
         <div className="bg-[#F5F5F5]">
